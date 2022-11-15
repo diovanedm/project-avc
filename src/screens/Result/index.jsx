@@ -31,7 +31,7 @@ export function Result() {
 				setText("PROCURE POR ATENDIMETO IMEDIATAMENTE");
 				Alert.alert(
 					"Aviso!",
-					"Procure um médico ou entre em contato com o pronto socorro",
+					"Procure um profissional da saúde ou entre em contato com o pronto socorro",
 					[
 						{
 							text: "Ir para o hospital",
